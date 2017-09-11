@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Problem3
+comment1.params=
+comment1.target=void\ move5()
+comment2.params=
+comment2.target=void\ movePut()
+comment3.params=
+comment3.target=void\ turnRight()
+comment4.params=
+comment4.target=void\ constructH()
+comment5.params=
+comment5.target=void\ constructE()
+comment6.params=
+comment6.target=void\ constructL()
+comment7.params=
+comment7.target=void\ constructO()
+numComments=8
